@@ -13,7 +13,7 @@
 
 - 📫 Want to chat? Drop a line to **krishnavalliappan02@gmail.com!**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1C8Q3u9k2ffspv9m8aZX1etb4FjDA3IVA/view?usp=drive_link](https://drive.google.com/file/d/1C8Q3u9k2ffspv9m8aZX1etb4FjDA3IVA/view?usp=drive_link)
+- 📄 Curious about my adventures in data? [https://drive.google.com/file/d/1C8Q3u9k2ffspv9m8aZX1etb4FjDA3IVA/view?usp=drive_link](https://drive.google.com/file/d/1C8Q3u9k2ffspv9m8aZX1etb4FjDA3IVA/view?usp=drive_link)
 
 - ⚡ Fun fact: **I tell SQL to JOIN me for lunch but it keeps creating tables!**
 
